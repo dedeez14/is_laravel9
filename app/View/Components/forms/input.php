@@ -13,7 +13,7 @@ class input extends Component
      */
     public function __construct()
     {
-        //
+        // $this->
     }
 
     /**
